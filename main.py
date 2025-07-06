@@ -23,7 +23,7 @@ while operation:
             print(f"The value of {num1} + {num2} is: {num1 + num2}")
         elif operation == "-":
             print(f"The value of {num1} - {num2} is: {num1 - num2}")
-        elif operation == "*" or operation == "x" or operation == "X":
+        elif operation == "*":
             print(f"The value of {num1} * {num2} is: {num1 * num2}")
         elif operation == "/":
             if num2:
