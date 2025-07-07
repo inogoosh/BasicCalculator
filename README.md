@@ -43,13 +43,17 @@ The value of 5.0 + 3.0 is: 8.0
 
 # 📁 File Structure
 
-calculator.py    [# Main Python script containing all the logic]
+📁 BasicCalculator/
 
-README.md        [# Project documentation]
+│
 
-.gitignore
+├── main.py          (# Main Python script)
 
-LICENSE
+├── README.md        (# This file)
+
+├── .gitignore
+
+├── LICENSE
 
 # 🧠 What You'll Learn
 Taking input from the user
