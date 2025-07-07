@@ -1,4 +1,4 @@
-# 🧮 Beginner's Command-Line Calculator in Python
+# 🧮 Beginner's Calculator in Python
 This is a simple and interactive Command-Line Calculator written in Python. It supports basic arithmetic operations, square, square root, exponentiation, and average calculation. Great for beginners who are learning how to use if-else, functions, loops, and user input in Python!
 
 # 🤖 Features
